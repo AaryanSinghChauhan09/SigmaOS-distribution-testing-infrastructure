@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-distribution-testing-infrastructure"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS distribution-testing-infrastructure component - distribution"
+
+[lib]
+name = "distribution_testing_infrastructure"
+path = "src/lib.rs"
