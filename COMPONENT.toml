@@ -3,7 +3,7 @@ name = "SigmaOS-distribution-testing-infrastructure"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "distribution-testing-infrastructure component"
+description = "Distribution Testing Infrastructure"
 upstream = []
 
 [contract]
